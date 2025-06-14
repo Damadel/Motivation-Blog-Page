@@ -41,7 +41,7 @@ This project is not yet deployed. Will update with a GitHub Pages link soon!
 
 ---
 
-## 📅 Project Status
+## Project Status
 
 ✅ Completed on **Day 2** of my frontend mastery challenge.
 
